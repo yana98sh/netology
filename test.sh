@@ -1,1 +1,3 @@
 echo "Hi"
+
+echo "Second"
